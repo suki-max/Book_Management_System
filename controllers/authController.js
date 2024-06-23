@@ -70,7 +70,7 @@ export const loginController = async (req, res) => {
     if (!email || !password) {
       return res.status(404).send({
         success: false,
-        message: "Invalid email or password",
+        message: "invalid inputs",
       });
     }
     //check user
