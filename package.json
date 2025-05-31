@@ -5,10 +5,10 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
-    "server": "nodemon server.js",
-    "project": "npm start --prefix ./project",
-    "dev": "concurrently \"npm run server\" \" npm run project\""
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js",
+    "project": "npm start --prefix ./frontend",
+    "dev": "concurrently \"npm run server\" \"npm run project\""
   },
   "keywords": [],
   "author": " Shivateja ",
