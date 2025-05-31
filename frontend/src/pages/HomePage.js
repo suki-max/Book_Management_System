@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 // Removed unused Antd imports - using native HTML inputs with Tailwind styling
 import { Prices } from "../components/Price.js";
 import { useCart } from "../context/cart";
-import axios from "axios";
+import axios from "../config/axios";
 import toast from "react-hot-toast";
 import Layout from "./../components/Layout/Layout";
 import { AiOutlineReload } from "react-icons/ai";
