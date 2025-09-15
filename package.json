@@ -11,8 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run project\""
   },
   "keywords": [],
-  "author": " Shivateja ",
-  "license": "MIT",
+  "author": " Sukirti ",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "braintree": "^3.23.0",
