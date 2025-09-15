@@ -4,7 +4,7 @@
 
 ## 🌟 Overview
 
-**BookBuddy** is a modern, full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) specifically designed for selling books online. The application features a beautiful, responsive design with Tailwind CSS and provides a complete shopping experience for both customers and administrators.
+**BookBuddy** is a modern, full-stack e-commerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) specifically designed for managing books online. The application features a beautiful, responsive design with Tailwind CSS and provides a complete shopping experience for both customers and administrators.
 
 ## ✨ Key Features
 
@@ -202,16 +202,6 @@ BookStore/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
