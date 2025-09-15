@@ -2,7 +2,7 @@
 
 ## 📚 Project Overview
 
-**BookBuddy** is a full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) specifically designed for selling books online. The application provides a complete shopping experience with user authentication, product management, shopping cart functionality, payment processing, and administrative controls.
+**BookBuddy** is a full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) specifically designed for managing books online. The application provides a complete shopping experience with user authentication, product management, shopping cart functionality, payment processing, and administrative controls.
 
 ---
 
